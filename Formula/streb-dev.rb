@@ -1,12 +1,12 @@
-# Homebrew formula for strebdev (development builds)
+# Homebrew formula for streb-dev (development builds)
 #
 # Installation:
 #   brew tap adesso-ai/streb-dev https://github.com/adesso-ai/homebrew-streb-dev
-#   brew install strebdev
+#   brew install streb-dev
 #
 # Auto-updated by GitHub Actions on each push to develop.
 
-class Strebdev < Formula
+class StrebDev < Formula
   desc "CLI tool for bootstrapping Claude Code development environments (dev build)"
   homepage "https://strebcli.dev"
   version "0.7.18-dev.11+5e605fc"
