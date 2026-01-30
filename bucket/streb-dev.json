@@ -1,5 +1,5 @@
 {
-  "version": "0.8.0-dev.11+f1eeaa7",
+  "version": "0.8.0-dev.12+05d0d46",
   "description": "CLI tool for bootstrapping Claude Code development environments (dev build)",
   "homepage": "https://strebcli.dev",
   "license": {
@@ -8,8 +8,8 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://github.com/adesso-ai/homebrew-streb-dev/releases/download/v0.8.0-dev.11+f1eeaa7/streb-dev_windows_amd64.zip",
-      "hash": "09bf9fd8348f965b491ea9d7b8d570a32ba503cfcc5b5642152fc96ef98ba13d"
+      "url": "https://github.com/adesso-ai/homebrew-streb-dev/releases/download/v0.8.0-dev.12+05d0d46/streb-dev_windows_amd64.zip",
+      "hash": "d315110facbc9c8a04739f4ade2c9d24216e02db212ecc886c82d6346ac281cb"
     }
   },
   "bin": "streb-dev.exe",
