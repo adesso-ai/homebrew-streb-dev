@@ -9,24 +9,24 @@
 class StrebDev < Formula
   desc "CLI tool for bootstrapping Claude Code development environments (dev build)"
   homepage "https://strebcli.dev"
-  version "0.8.0-dev.45+79a0755"
+  version "0.8.0-dev.46+fe61513"
   license :cannot_represent
 
   on_macos do
     on_arm do
-      url "https://github.com/adesso-ai/homebrew-streb-dev/releases/download/v0.8.0-dev.45+79a0755/streb-dev_darwin_arm64.tar.gz"
-      sha256 "3a225b8e0c0dd01ebc88995d19a47144b69c3d083b5eb9e711d74dd1d3dc216d"
+      url "https://github.com/adesso-ai/homebrew-streb-dev/releases/download/v0.8.0-dev.46+fe61513/streb-dev_darwin_arm64.tar.gz"
+      sha256 "8573bde3719db5e5c058ce4d9f435d2e8afc3de0332153b62b25af3ca698d046"
     end
     on_intel do
-      url "https://github.com/adesso-ai/homebrew-streb-dev/releases/download/v0.8.0-dev.45+79a0755/streb-dev_darwin_amd64.tar.gz"
-      sha256 "1864cb876137553e019b509bdd2cf9d34865216ff3eb0321b234e30c90647f13"
+      url "https://github.com/adesso-ai/homebrew-streb-dev/releases/download/v0.8.0-dev.46+fe61513/streb-dev_darwin_amd64.tar.gz"
+      sha256 "51127748e0b455eb2930c88329965f00d9369a3562cf4e2d2eae9cafb9565c08"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/adesso-ai/homebrew-streb-dev/releases/download/v0.8.0-dev.45+79a0755/streb-dev_linux_amd64.tar.gz"
-      sha256 "dd3123a17d28af0ebdf990e9c7e1176b3de311cb3399bc2263ca840e8888966e"
+      url "https://github.com/adesso-ai/homebrew-streb-dev/releases/download/v0.8.0-dev.46+fe61513/streb-dev_linux_amd64.tar.gz"
+      sha256 "127a2e85a14a7aeb41ad5516fee11d0c9d02dc01419218c4d34ae3ba6dda0f08"
     end
   end
 
